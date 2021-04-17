@@ -1,6 +1,7 @@
 #ifndef LIST_OBJECTS_FILTER_OPTIONS_H
 #define LIST_OBJECTS_FILTER_OPTIONS_H
 
+#include "cache.h"
 #include "parse-options.h"
 #include "string-list.h"
 
